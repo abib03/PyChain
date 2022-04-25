@@ -1,6 +1,6 @@
 # PyChain
 
-I created a Blockchain-based ledger that allows for users to send and receive money and verifies the integrety of each financial transaction. The images below are my results.
+I created a Blockchain-based ledger with Streamlit that allows for users to send and receive money and verifies the integrety of each financial transaction. The images below are my results.
 
 
 
