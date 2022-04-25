@@ -1,6 +1,6 @@
 # PyChain
 
-![Blockchain Validity](Blockchain Validity.png)
+! [Blockchain Validity](Blockchain Validity.png)
 
 
-![Multiple Blocks](Multiple Blocks.png)
+! [Multiple Blocks](Multiple Blocks.png)
